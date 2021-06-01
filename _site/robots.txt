@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://rodrigoms95.github.io/index.html/sitemap.xml
